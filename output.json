@@ -1,0 +1,4287 @@
+[
+  {
+    "row_index": 0,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features two sleek desks with a minimalist design. Each desk has a smooth white surface supported by sturdy black metal legs. Behind the desks are tall, gray acoustic panels that provide privacy and reduce noise. The ergonomic chairs are upholstered in a light gray fabric, complementing the overall aesthetic. Each desk is accessorized with small potted plants and office supplies, enhancing the workspace's functionality and style.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "white",
+          "style": "modern",
+          "material": "metal and laminate",
+          "details": "minimalist design with sturdy black legs",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "light gray",
+          "style": "modern",
+          "material": "fabric and metal",
+          "details": "ergonomic design with wheels",
+          "count": 2
+        },
+        {
+          "type": "acoustic panel",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "provides privacy and noise reduction",
+          "count": 2
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "natural",
+          "details": "small potted plant for decoration",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "acoustic panel",
+        "workspace design",
+        "minimalist furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 1,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a pair of sleek, white desks with a minimalist design, complemented by ergonomic chairs upholstered in a soft gray fabric. Each desk is equipped with a laptop and decorative items, including potted plants and small bowls. The desks are separated by sound-absorbing partitions, enhancing privacy and focus in the workspace. The overall aesthetic is clean and contemporary, promoting a productive environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "white",
+          "style": "modern",
+          "material": "laminate",
+          "details": "minimalist design with sound-absorbing partitions",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "gray",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "soft upholstery with rolling wheels",
+          "count": 2
+        },
+        {
+          "type": "plant pot",
+          "color": "black",
+          "style": "modern",
+          "material": "ceramic",
+          "details": "decorative with small plant",
+          "count": 1
+        },
+        {
+          "type": "laptop",
+          "color": "black",
+          "style": "modern",
+          "material": "metal",
+          "details": "sleek design on desk",
+          "count": 2
+        },
+        {
+          "type": "bowl",
+          "color": "black",
+          "style": "modern",
+          "material": "ceramic",
+          "details": "decorative item on desk",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "workspace design",
+        "minimalist furniture",
+        "contemporary office"
+      ]
+    }
+  },
+  {
+    "row_index": 2,
+    "metadata": {
+      "detailed_caption": "This modern private office features a sleek desk with a wooden top and a white base, complemented by a comfortable ergonomic chair with a black and white design. The desk is equipped with dual monitors mounted on an adjustable arm for optimal viewing. Behind the desk, there is a stylish storage unit with a combination of wood and white finishes. A round dining table with a wooden top and white legs is paired with two minimalist chairs, creating a cozy meeting area. A small potted plant adds a touch of greenery to the space.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "wood, white",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "with adjustable monitor arms",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "black, white",
+          "style": "ergonomic",
+          "material": "fabric, plastic",
+          "details": "adjustable height",
+          "count": 1
+        },
+        {
+          "type": "storage unit",
+          "color": "wood, white",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "with sliding doors",
+          "count": 1
+        },
+        {
+          "type": "table",
+          "color": "wood, white",
+          "style": "modern",
+          "material": "wood, plastic",
+          "details": "round shape",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "white",
+          "style": "minimalist",
+          "material": "plastic",
+          "details": "with wooden legs",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk chair",
+        "wooden desk",
+        "round dining table",
+        "minimalist office design"
+      ]
+    }
+  },
+  {
+    "row_index": 3,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a series of collaborative desks arranged in a semi-open layout. Each desk is equipped with dual monitors, providing ample screen space for productivity. The desks have a warm wood finish, complemented by sleek white bases. Privacy panels in a soft gray fabric separate the workstations, enhancing focus and reducing noise. Ergonomic office chairs with mesh backs offer comfort and support, while small potted plants add a touch of greenery to the environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "wood, white",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "dual monitor setup, ergonomic design",
+          "count": 8
+        },
+        {
+          "type": "chair",
+          "color": "black, gray",
+          "style": "modern",
+          "material": "mesh, plastic",
+          "details": "ergonomic, adjustable height",
+          "count": 8
+        },
+        {
+          "type": "privacy panel",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "sound-absorbing, freestanding",
+          "count": 8
+        },
+        {
+          "type": "monitor",
+          "color": "black",
+          "style": "modern",
+          "material": "plastic, glass",
+          "details": "dual setup, adjustable height",
+          "count": 16
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "plastic",
+          "details": "small potted plant",
+          "count": 8
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "collaborative desks",
+        "ergonomic chairs",
+        "privacy panels",
+        "workspace design",
+        "dual monitor setup",
+        "office decor",
+        "wooden desks"
+      ]
+    }
+  },
+  {
+    "row_index": 4,
+    "metadata": {
+      "detailed_caption": "This image features a modern office partition with a sleek design. The partition is upholstered in a light gray fabric, providing a soft texture that enhances acoustic privacy. It is supported by a sturdy white metal base, which adds a contemporary touch. A beige coat is casually draped over the partition, showcasing its functional design that allows for personal items to be hung conveniently.",
+      "objects": [
+        {
+          "type": "partition",
+          "color": "light gray",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "acoustic panel, with coat hook",
+          "count": 1
+        },
+        {
+          "type": "coat",
+          "color": "beige",
+          "style": "casual",
+          "material": "fabric",
+          "details": "draped over partition",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "office partition",
+        "acoustic panel",
+        "modern design",
+        "workspace furniture",
+        "functional decor"
+      ]
+    }
+  },
+  {
+    "row_index": 5,
+    "metadata": {
+      "detailed_caption": "This workspace features a modern desk with a light wood surface, complemented by a sleek white metal frame. The desk is equipped with a grey acoustic panel that provides privacy and sound absorption. A stylish ergonomic chair with a dark blue fabric seat and white base offers comfort and mobility. A beige jacket hangs on the side, adding a personal touch to the space. The setup is designed for functionality and aesthetics, ideal for contemporary office environments.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, white",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "features an acoustic panel for privacy",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "dark blue, white",
+          "style": "ergonomic",
+          "material": "fabric, plastic",
+          "details": "rolling chair with a comfortable seat",
+          "count": 1
+        },
+        {
+          "type": "jacket",
+          "color": "beige",
+          "style": "casual",
+          "material": "fabric",
+          "details": "hanging on the side of the desk",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "ergonomic chair",
+        "office workspace",
+        "acoustic panel",
+        "contemporary design"
+      ]
+    }
+  },
+  {
+    "row_index": 6,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a pair of collaborative desks designed for efficiency and comfort. Each desk is equipped with a smooth wooden surface in a light oak finish, complemented by sleek white metal frames. The desks are separated by soft, sound-absorbing partitions in a textured blue fabric, providing privacy while maintaining an open feel. Ergonomic office chairs with a black fabric seat and white accents offer adjustable support, enhancing the overall functionality of the workspace. Each workstation includes integrated cable management for a tidy appearance.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak, white",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "collaborative design with integrated cable management",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "black, white",
+          "style": "ergonomic",
+          "material": "fabric, plastic",
+          "details": "adjustable height and lumbar support",
+          "count": 2
+        },
+        {
+          "type": "partition",
+          "color": "blue",
+          "style": "modern",
+          "material": "fabric",
+          "details": "sound-absorbing, textured",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "collaborative workspace",
+        "sound-absorbing partition",
+        "light oak furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 7,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a series of sleek, ergonomic desks arranged in a linear fashion. Each desk is crafted from light wood, showcasing a natural finish that adds warmth to the space. The desks are paired with adjustable office chairs that have a contemporary design, featuring a mesh back for breathability and cushioned seats for comfort. Each workstation is separated by sound-absorbing fabric partitions, providing privacy while maintaining an open feel. The desks are equipped with dual monitors, enhancing productivity, and there are small potted plants and stationery holders for a touch of personalization.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "linear arrangement with natural finish",
+          "count": 5
+        },
+        {
+          "type": "chair",
+          "color": "white and gray",
+          "style": "contemporary",
+          "material": "mesh and fabric",
+          "details": "ergonomic with adjustable height",
+          "count": 5
+        },
+        {
+          "type": "partition",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "sound-absorbing for privacy",
+          "count": 5
+        },
+        {
+          "type": "monitor",
+          "color": "black",
+          "style": "modern",
+          "material": "glass and plastic",
+          "details": "dual monitors per workstation",
+          "count": 10
+        },
+        {
+          "type": "storage unit",
+          "color": "white and wood",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "mobile with integrated storage",
+          "count": 5
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "fabric partition",
+        "dual monitor workstation",
+        "office storage unit"
+      ]
+    }
+  },
+  {
+    "row_index": 8,
+    "metadata": {
+      "detailed_caption": "This modern workspace features a sleek desk with a light wood surface, complemented by a grey felt privacy panel at the back. The desk is supported by a sturdy white metal frame, enhancing its contemporary aesthetic. Accompanying the desk is an ergonomic chair upholstered in a textured dark grey fabric, which rests on a white base with rolling casters for mobility. The overall design promotes a clean and functional work environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, grey",
+          "style": "modern",
+          "material": "wood, metal, felt",
+          "details": "features a privacy panel, sturdy frame",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "dark grey, white",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "ergonomic, on casters",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "ergonomic chair",
+        "light wood furniture",
+        "office workspace",
+        "contemporary design"
+      ]
+    }
+  },
+  {
+    "row_index": 9,
+    "metadata": {
+      "detailed_caption": "This modern workspace features a sleek wooden desk with a light oak finish, complemented by a gray acoustic panel that provides privacy and sound absorption. The desk is supported by a sturdy white metal frame, enhancing its contemporary aesthetic. Accompanying the desk is a stylish ergonomic chair with a dark gray fabric seat and a white base, designed for comfort and mobility. The overall design promotes a clean and efficient work environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "with acoustic panel for privacy",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "ergonomic with wheels",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "ergonomic chair",
+        "wooden desk",
+        "acoustic panel",
+        "contemporary office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 10,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a collaborative setup with multiple workstations. Each workstation is equipped with a sleek wooden desk that has a light oak finish, providing a warm contrast to the cool-toned acoustic panels. The desks are paired with ergonomic office chairs in a light gray fabric, designed for comfort during long working hours. The workstations are separated by tall, soft blue acoustic panels that enhance privacy and reduce noise, while two dual-monitor setups are positioned on each desk, promoting productivity. A small mobile storage unit in a matching wood finish adds functionality, allowing for easy access to office supplies.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "spacious with integrated cable management",
+          "count": 4
+        },
+        {
+          "type": "chair",
+          "color": "light gray",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "adjustable height and lumbar support",
+          "count": 4
+        },
+        {
+          "type": "acoustic panel",
+          "color": "soft blue",
+          "style": "modern",
+          "material": "fabric",
+          "details": "tall for privacy and sound absorption",
+          "count": 4
+        },
+        {
+          "type": "monitor",
+          "color": "black",
+          "style": "modern",
+          "material": "electronic",
+          "details": "dual-monitor setup for each workstation",
+          "count": 8
+        },
+        {
+          "type": "storage unit",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "mobile with drawers for storage",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk chair",
+        "acoustic panels",
+        "collaborative workspace",
+        "dual monitor workstation",
+        "light oak desk",
+        "office storage solutions"
+      ]
+    }
+  },
+  {
+    "row_index": 11,
+    "metadata": {
+      "detailed_caption": "The workspace features a modern office layout with eight workstations arranged in pairs. Each workstation includes a sleek wooden desk with a light oak finish, complemented by a white storage unit beneath. The desks are equipped with ergonomic black office chairs that have white accents, providing comfort for extended use. Each station is separated by gray acoustic panels that enhance privacy and reduce noise, while dual monitors are positioned on each desk for optimal productivity.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated storage unit",
+          "count": 8
+        },
+        {
+          "type": "chair",
+          "color": "black and white",
+          "style": "ergonomic",
+          "material": "fabric and plastic",
+          "details": "adjustable height",
+          "count": 8
+        },
+        {
+          "type": "acoustic panel",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "for noise reduction and privacy",
+          "count": 8
+        },
+        {
+          "type": "monitor",
+          "color": "black",
+          "style": "modern",
+          "material": "electronic",
+          "details": "dual screen setup",
+          "count": 8
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk chair",
+        "acoustic panels",
+        "workspace design",
+        "office workstation"
+      ]
+    }
+  },
+  {
+    "row_index": 12,
+    "metadata": {
+      "detailed_caption": "This workspace features a modern desk with a light wooden top and a sleek white frame. The desk is complemented by a grey acoustic screen that provides privacy and noise reduction. The ergonomic chair, upholstered in dark fabric, has a minimalist design with a five-star base and rolling casters for mobility.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, white",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "height-adjustable with a smooth wooden surface",
+          "count": 1
+        },
+        {
+          "type": "screen",
+          "color": "grey",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "acoustic panel for noise reduction",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "dark grey",
+          "style": "modern",
+          "material": "fabric, plastic",
+          "details": "ergonomic with rolling casters",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "height-adjustable desk",
+        "acoustic screen",
+        "ergonomic chair",
+        "office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 13,
+    "metadata": {
+      "detailed_caption": "This image features a modern office partition designed for collaborative workspaces. The partition is primarily made of a textured gray acoustic panel, which helps in sound absorption, enhancing privacy and reducing noise in open office environments. The frame is sleek and white, constructed from metal, providing a contemporary aesthetic. It is mounted on a sturdy base with wheels, allowing for easy mobility and repositioning as needed. The design is minimalistic yet functional, making it suitable for various office layouts.",
+      "objects": [
+        {
+          "type": "partition",
+          "color": "gray and white",
+          "style": "modern",
+          "material": "acoustic panel and metal",
+          "details": "mobile with wheels, sound-absorbing",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "office partition",
+        "acoustic panel",
+        "modern office furniture",
+        "mobile partition",
+        "workspace design"
+      ]
+    }
+  },
+  {
+    "row_index": 14,
+    "metadata": {
+      "detailed_caption": "The image features a modern desk with an integrated screen. The desk has a sleek, minimalist design with a white frame and a height-adjustable mechanism. The screen is upholstered in a soft, gray fabric that provides acoustic benefits and privacy, making it ideal for collaborative workspaces. The overall aesthetic is contemporary, emphasizing functionality and style.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "white",
+          "style": "modern",
+          "material": "metal and fabric",
+          "details": "height-adjustable with integrated acoustic screen",
+          "count": 1
+        },
+        {
+          "type": "screen",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "acoustic panel for privacy",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "height-adjustable desk",
+        "acoustic screen",
+        "office furniture",
+        "contemporary design"
+      ]
+    }
+  },
+  {
+    "row_index": 15,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features four individual workstations, each equipped with a spacious wooden desk and ergonomic chairs. The desks are designed with a light wood finish, complemented by sleek metal legs. Each workstation is separated by fabric privacy panels, providing a sense of personal space. The ergonomic chairs are designed for comfort, featuring a mesh back and adjustable height. Each desk is accompanied by a compact storage unit, also in a light wood finish, enhancing the overall aesthetic of the workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "spacious with metal legs",
+          "count": 4
+        },
+        {
+          "type": "chair",
+          "color": "white and black",
+          "style": "ergonomic",
+          "material": "mesh and plastic",
+          "details": "adjustable height",
+          "count": 4
+        },
+        {
+          "type": "storage unit",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "compact design",
+          "count": 4
+        },
+        {
+          "type": "privacy panel",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "provides personal space",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk chair",
+        "wooden desk",
+        "office workstation",
+        "privacy panels"
+      ]
+    }
+  },
+  {
+    "row_index": 16,
+    "metadata": {
+      "detailed_caption": "This workspace features a modern desk with a natural wood surface, complemented by a sleek white frame. The desk is paired with a fabric screen that provides privacy and sound absorption, enhancing the workspace's functionality. The ergonomic chair, designed for comfort, has a dark fabric upholstery and a white base with wheels for mobility.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "natural wood, white",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "height-adjustable, with a fabric privacy screen",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "dark gray, white",
+          "style": "modern",
+          "material": "fabric, plastic",
+          "details": "ergonomic, on wheels",
+          "count": 1
+        },
+        {
+          "type": "screen",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "sound-absorbing, provides privacy",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "height-adjustable desk",
+        "ergonomic chair",
+        "office furniture",
+        "workspace design",
+        "privacy screen",
+        "natural wood desk",
+        "fabric office chair"
+      ]
+    }
+  },
+  {
+    "row_index": 17,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern private office space featuring a sleek desk with a wooden top and a gray felt front. The desk is equipped with dual monitors mounted on an adjustable arm for ergonomic viewing. Above the desk, there is a stylish wall-mounted cabinet with a combination of wood and white finishes, providing ample storage. Adjacent to the desk is a minimalist white storage unit. In the corner, a round wooden table is paired with two white chairs, creating a cozy meeting area. A small potted plant adds a touch of greenery to the space.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "wood, gray",
+          "style": "modern",
+          "material": "wood, felt",
+          "details": "with dual monitor setup and adjustable arm",
+          "count": 1
+        },
+        {
+          "type": "storage cabinet",
+          "color": "white, wood",
+          "style": "modern",
+          "material": "wood, laminate",
+          "details": "wall-mounted with multiple compartments",
+          "count": 1
+        },
+        {
+          "type": "storage unit",
+          "color": "white",
+          "style": "modern",
+          "material": "laminate",
+          "details": "minimalist design",
+          "count": 1
+        },
+        {
+          "type": "table",
+          "color": "wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round shape",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "white",
+          "style": "modern",
+          "material": "plastic",
+          "details": "minimalist design",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk",
+        "dual monitor setup",
+        "minimalist storage solutions",
+        "round meeting table",
+        "white chairs",
+        "wooden desk"
+      ]
+    }
+  },
+  {
+    "row_index": 18,
+    "metadata": {
+      "detailed_caption": "The image features a modern desk with an attached acoustic screen. The desk has a sleek, minimalist design with a white frame and a height-adjustable mechanism, allowing for ergonomic use. The acoustic screen is made of a soft gray fabric, providing sound absorption and privacy in a workspace. The overall aesthetic is clean and contemporary, suitable for a professional environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "white",
+          "style": "modern",
+          "material": "metal and fabric",
+          "details": "height-adjustable with ergonomic design",
+          "count": 1
+        },
+        {
+          "type": "screen",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "acoustic panel for sound absorption",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "height-adjustable desk",
+        "acoustic screen",
+        "ergonomic furniture",
+        "contemporary office design"
+      ]
+    }
+  },
+  {
+    "row_index": 19,
+    "metadata": {
+      "detailed_caption": "This commercial workspace features a series of interconnected desks designed for collaborative work. Each desk has a sleek, angular shape with a light wood finish, complemented by sturdy black metal legs. The desks are separated by fabric partitions that provide privacy while maintaining an open feel. Accessories such as small potted plants and notebooks add a touch of personalization to the workspace. The overall design promotes a modern and functional office environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "angular shape with black metal legs",
+          "count": 5
+        },
+        {
+          "type": "partition",
+          "color": "gray",
+          "style": "contemporary",
+          "material": "fabric",
+          "details": "provides privacy between workstations",
+          "count": 4
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "ceramic",
+          "details": "small potted plant for decoration",
+          "count": 2
+        },
+        {
+          "type": "laptop",
+          "color": "silver",
+          "style": "modern",
+          "material": "metal",
+          "details": "portable computer on the desk",
+          "count": 1
+        },
+        {
+          "type": "notebook",
+          "color": "white",
+          "style": "modern",
+          "material": "paper",
+          "details": "notebook for taking notes",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "collaborative workspace",
+        "fabric partition",
+        "light wood furniture",
+        "contemporary office design"
+      ]
+    }
+  },
+  {
+    "row_index": 20,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a collaborative desking arrangement with multiple workstations. Each workstation is equipped with a light wood tabletop supported by a sleek metal frame. The desks are separated by soft, gray acoustic panels that provide privacy while enhancing sound absorption. Each station includes a laptop, small potted plants, and a whiteboard for notes, creating a functional and inviting work environment. The overall design promotes both productivity and comfort.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "with acoustic panels for privacy",
+          "count": 4
+        },
+        {
+          "type": "chair",
+          "color": "gray",
+          "style": "contemporary",
+          "material": "fabric",
+          "details": "ergonomic design",
+          "count": 4
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "decorative",
+          "material": "natural",
+          "details": "small potted plants",
+          "count": 4
+        },
+        {
+          "type": "whiteboard",
+          "color": "white",
+          "style": "functional",
+          "material": "glass",
+          "details": "mounted for notes",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "collaborative workspace",
+        "acoustic panels",
+        "ergonomic chair",
+        "office furniture design"
+      ]
+    }
+  },
+  {
+    "row_index": 21,
+    "metadata": {
+      "detailed_caption": "This commercial workspace features a series of modern bench desks designed for collaborative work. Each desk is equipped with a light wood surface, providing a warm contrast to the sleek black metal legs. The desks are separated by gray acoustic panels that enhance privacy and reduce noise, making them ideal for open office environments. Each workstation is accessorized with a laptop, small potted plants, and various office supplies, creating a functional and aesthetically pleasing workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "features acoustic panels for privacy",
+          "count": 4
+        },
+        {
+          "type": "planter",
+          "color": "white",
+          "style": "modern",
+          "material": "ceramic",
+          "details": "contains small green plants",
+          "count": 1
+        },
+        {
+          "type": "laptop",
+          "color": "black",
+          "style": "modern",
+          "material": "metal and plastic",
+          "details": "standard laptop for office use",
+          "count": 4
+        },
+        {
+          "type": "storage cart",
+          "color": "black",
+          "style": "modern",
+          "material": "metal",
+          "details": "mobile storage with wheels",
+          "count": 4
+        },
+        {
+          "type": "office supplies",
+          "color": "various",
+          "style": "modern",
+          "material": "plastic and metal",
+          "details": "includes pens, notebooks, and containers",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "bench workstation",
+        "acoustic panels",
+        "mobile storage cart",
+        "collaborative workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 22,
+    "metadata": {
+      "detailed_caption": "This workspace features a series of interconnected desks designed for collaborative work. Each desk has a light oak wood surface that offers a warm and inviting aesthetic. The desks are supported by sturdy black metal legs, providing a modern industrial look. Each workstation is separated by grey fabric acoustic panels that enhance privacy and reduce noise, making it ideal for focused work. Small potted plants add a touch of greenery, while laptops and stationery are neatly arranged on the surfaces, showcasing a functional and organized workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "interconnected, with acoustic panels for privacy",
+          "count": 5
+        },
+        {
+          "type": "acoustic panel",
+          "color": "grey",
+          "style": "modern",
+          "material": "fabric",
+          "details": "provides noise reduction and privacy",
+          "count": 5
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "ceramic",
+          "details": "small potted plants for decoration",
+          "count": 5
+        },
+        {
+          "type": "laptop",
+          "color": "silver",
+          "style": "modern",
+          "material": "metal, plastic",
+          "details": "used for work purposes",
+          "count": 2
+        },
+        {
+          "type": "stationery",
+          "color": "various",
+          "style": "modern",
+          "material": "paper, plastic",
+          "details": "includes notebooks and pens",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "collaborative workspace",
+        "acoustic panels",
+        "light oak furniture",
+        "office plants"
+      ]
+    }
+  },
+  {
+    "row_index": 23,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a collaborative desking system designed for productivity and comfort. The centerpiece is a long, rectangular desk made of light wood, providing ample surface area for work. Surrounding the desk are soft, gray acoustic panels that offer privacy while reducing noise, creating a focused environment. Each workstation is equipped with a sleek black storage unit on wheels, allowing for easy mobility and organization. A laptop sits on one of the desks, highlighting the tech-friendly design. The overall aesthetic is contemporary, combining functionality with a minimalist approach.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "long rectangular shape, ample surface area",
+          "count": 1
+        },
+        {
+          "type": "acoustic panel",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "provides privacy and noise reduction",
+          "count": 4
+        },
+        {
+          "type": "storage unit",
+          "color": "black",
+          "style": "modern",
+          "material": "metal",
+          "details": "on wheels for mobility",
+          "count": 2
+        },
+        {
+          "type": "laptop",
+          "color": "silver",
+          "style": "modern",
+          "material": "metal/plastic",
+          "details": "tech-friendly design",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "acoustic panels",
+        "collaborative workspace",
+        "mobile storage unit",
+        "minimalist office design"
+      ]
+    }
+  },
+  {
+    "row_index": 24,
+    "metadata": {
+      "detailed_caption": "A modern conference table surrounded by ergonomic chairs, ideal for collaborative meetings. The table features a sleek wooden surface with a light oak finish, complemented by a sturdy white metal base. Each chair is upholstered in a soft, light blue fabric, offering comfort and style, and is mounted on a five-point wheeled base for mobility. The setup includes a laptop, a coffee cup, and decorative items like a small plant and a white ceramic object, enhancing the professional atmosphere.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "rectangular shape with a white metal base",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "light blue",
+          "style": "modern",
+          "material": "fabric and metal",
+          "details": "ergonomic with a wheeled base",
+          "count": 8
+        }
+      ],
+      "keywords": [
+        "conference table",
+        "modern office furniture",
+        "ergonomic chairs",
+        "light oak table",
+        "blue upholstered chairs"
+      ]
+    }
+  },
+  {
+    "row_index": 25,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office workspace featuring a height-adjustable desk with a light wooden top and white metal legs. The desk is equipped with a computer monitor mounted on an adjustable arm, a keyboard, and a mouse. Adjacent to the desk is a stylish storage unit made of the same light wood, which includes a drawer and a planter on top filled with greenery. The workspace is complemented by a gray acoustic panel that provides privacy and sound absorption.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "height-adjustable, with integrated power outlets",
+          "count": 1
+        },
+        {
+          "type": "storage unit",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "includes a drawer and a planter",
+          "count": 1
+        },
+        {
+          "type": "monitor",
+          "color": "black",
+          "style": "modern",
+          "material": "plastic and glass",
+          "details": "mounted on an adjustable arm",
+          "count": 1
+        },
+        {
+          "type": "keyboard",
+          "color": "black",
+          "style": "modern",
+          "material": "plastic",
+          "details": "standard layout",
+          "count": 1
+        },
+        {
+          "type": "mouse",
+          "color": "black",
+          "style": "modern",
+          "material": "plastic",
+          "details": "wireless",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "height-adjustable desk",
+        "modern office furniture",
+        "wooden desk",
+        "office storage unit",
+        "workspace design"
+      ]
+    }
+  },
+  {
+    "row_index": 26,
+    "metadata": {
+      "detailed_caption": "The image features a modern desk with a sleek design, showcasing a wooden tabletop that contrasts with a minimalist gray underframe. The desk is supported by sturdy white legs, providing a clean and contemporary look. Below the tabletop, there are integrated power outlets and cable management solutions, including a coiled cable organizer that keeps cords tidy and out of sight. The overall aesthetic is functional yet stylish, ideal for a contemporary workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": [
+            "wood",
+            "gray",
+            "white"
+          ],
+          "style": "modern",
+          "material": [
+            "wood",
+            "metal"
+          ],
+          "details": "with integrated power outlets and cable management",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "wooden tabletop",
+        "cable management",
+        "contemporary workspace",
+        "integrated power outlets"
+      ]
+    }
+  },
+  {
+    "row_index": 27,
+    "metadata": {
+      "detailed_caption": "The image features a modern office desk with a sleek design. The tabletop is made of light-colored wood, providing a warm and inviting appearance. Below the tabletop, there is a gray storage unit with two drawers, enhancing functionality while maintaining a minimalist aesthetic. The desk is supported by sturdy white legs that add a contemporary touch. Visible electrical outlets are integrated into the design, allowing for easy access to power sources, while the neatly organized cables suggest a focus on a clean workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, gray, white",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "with integrated storage and electrical outlets",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "wooden tabletop",
+        "gray storage unit",
+        "contemporary office furniture",
+        "integrated power outlets"
+      ]
+    }
+  },
+  {
+    "row_index": 28,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office desk with a sleek design. The tabletop features a natural wood finish, providing a warm contrast to the minimalist gray storage unit beneath it. The desk is supported by sturdy white legs, enhancing its contemporary aesthetic. Notably, the desk includes integrated cable management with visible power outlets and neatly arranged wires, promoting a tidy workspace. A potted plant adds a touch of greenery, softening the overall look.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": [
+            "natural wood",
+            "gray",
+            "white"
+          ],
+          "style": "modern",
+          "material": [
+            "wood",
+            "metal"
+          ],
+          "details": "with integrated cable management and power outlets",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "office furniture",
+        "cable management",
+        "natural wood finish",
+        "contemporary design"
+      ]
+    }
+  },
+  {
+    "row_index": 29,
+    "metadata": {
+      "detailed_caption": "This image features a modern office desk with a sleek design. The tabletop is made of light-colored wood, providing a warm and inviting aesthetic. Below the surface, a gray drawer unit is integrated, which includes power outlets for easy access to charging devices. The legs of the desk are white, creating a clean contrast with the wooden top. The overall design emphasizes functionality and minimalism, making it suitable for contemporary workspaces.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, gray, white",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "features integrated power outlets, minimalist design",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "wooden tabletop",
+        "integrated power outlets",
+        "minimalist office furniture",
+        "contemporary workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 30,
+    "metadata": {
+      "detailed_caption": "This commercial interior design features a spacious office layout with various furniture pieces. Central to the design is a large round table surrounded by green chairs, ideal for collaborative meetings. Adjacent to it is a cozy lounge area with a sectional sofa and a round coffee table, creating a relaxed atmosphere. The workspace is organized with multiple wooden desks, each equipped with ergonomic chairs and integrated storage solutions. Greenery is incorporated throughout the space with planters, adding a touch of nature to the modern design.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round, suitable for meetings",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "green",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic, designed for comfort",
+          "count": 6
+        },
+        {
+          "type": "sofa",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "sectional, with cushions",
+          "count": 1
+        },
+        {
+          "type": "coffee table",
+          "color": "wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round, complements the sofa",
+          "count": 1
+        },
+        {
+          "type": "desk",
+          "color": "wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated storage, suitable for workstations",
+          "count": 8
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic, designed for office use",
+          "count": 8
+        },
+        {
+          "type": "planter",
+          "color": "green",
+          "style": "modern",
+          "material": "metal/wood",
+          "details": "integrated with furniture, adds greenery",
+          "count": 5
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "wooden desks",
+        "collaborative workspace",
+        "office lounge area",
+        "greenery in office design",
+        "sectional sofa"
+      ]
+    }
+  },
+  {
+    "row_index": 31,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office layout featuring various workstations and collaborative spaces. Each workstation is equipped with a wooden desk, complemented by ergonomic chairs in a neutral brown color. The desks are arranged in clusters, some with green partitions that incorporate small plants, adding a touch of nature to the workspace. There are also round tables with wooden tops and minimalist chairs, creating informal meeting areas. The overall design emphasizes functionality and comfort, with a contemporary aesthetic.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "wooden",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated plant partitions",
+          "count": 6
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "adjustable height",
+          "count": 6
+        },
+        {
+          "type": "table",
+          "color": "wooden",
+          "style": "modern",
+          "material": "wood",
+          "details": "round shape for collaborative spaces",
+          "count": 2
+        },
+        {
+          "type": "partition",
+          "color": "green",
+          "style": "modern",
+          "material": "metal and fabric",
+          "details": "with integrated plants",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "wooden desks",
+        "collaborative workspace",
+        "office partitions with plants"
+      ]
+    }
+  },
+  {
+    "row_index": 32,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office space featuring a variety of workstations. Each workstation is equipped with a light wooden desk paired with ergonomic chairs in a brown fabric. The desks have a clean design with a combination of light wood and a soft-colored surface. Some workstations are separated by green fabric partitions that provide privacy. There are also integrated planters with greenery, enhancing the workspace's aesthetic. Additional elements include a few desks with desktop computers and accessories, creating a functional and inviting environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with soft-colored surface, integrated planters",
+          "count": 5
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "with a swivel base",
+          "count": 5
+        },
+        {
+          "type": "partition",
+          "color": "green",
+          "style": "modern",
+          "material": "fabric",
+          "details": "providing privacy between workstations",
+          "count": 3
+        },
+        {
+          "type": "computer",
+          "color": "black",
+          "style": "modern",
+          "material": "metal and plastic",
+          "details": "desktop setup with accessories",
+          "count": 3
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk chair",
+        "wooden office desk",
+        "office partitions",
+        "workspace design"
+      ]
+    }
+  },
+  {
+    "row_index": 33,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office workspace featuring a variety of furniture designed for functionality and comfort. Central to the scene are several wooden desks with a light oak finish, complemented by ergonomic chairs in a soft brown fabric. The desks are arranged in a collaborative layout, with some featuring integrated privacy panels upholstered in muted green and red fabrics. Each desk is equipped with cable management solutions, ensuring a tidy appearance. Additionally, there are storage units with a sleek design, providing ample space for office supplies. The overall aesthetic is enhanced by the presence of greenery, with planters integrated into the workspace, promoting a refreshing and inviting atmosphere.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "features integrated cable management",
+          "count": 4
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "with metal armrests",
+          "count": 4
+        },
+        {
+          "type": "privacy panel",
+          "color": "green and red",
+          "style": "modern",
+          "material": "fabric",
+          "details": "upholstered for sound absorption",
+          "count": 2
+        },
+        {
+          "type": "storage unit",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "with multiple compartments",
+          "count": 1
+        },
+        {
+          "type": "planter",
+          "color": "green",
+          "style": "modern",
+          "material": "plastic",
+          "details": "integrated into the workspace",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk",
+        "wooden storage unit",
+        "collaborative workspace",
+        "office privacy panel",
+        "green office design"
+      ]
+    }
+  },
+  {
+    "row_index": 34,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office space featuring multiple workstations. Each workstation is equipped with a light wood desk that has a smooth finish, complemented by ergonomic chairs in a brown fabric. The desks are supported by sleek black metal bases, providing a contemporary look. In the background, additional work areas are visible, including a round table with green chairs and a series of wooden storage units. The overall design emphasizes functionality and comfort, with a blend of natural materials and modern aesthetics.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "smooth finish, supported by black metal base",
+          "count": 4
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "adjustable height, with wheels",
+          "count": 4
+        },
+        {
+          "type": "table",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round shape, accompanied by green chairs",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "green",
+          "style": "modern",
+          "material": "fabric",
+          "details": "simple design, with wooden legs",
+          "count": 4
+        },
+        {
+          "type": "storage unit",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "multiple compartments for organization",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk chairs",
+        "light wood desks",
+        "contemporary office design",
+        "workspace storage solutions"
+      ]
+    }
+  },
+  {
+    "row_index": 35,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office workspace featuring multiple desks arranged in a collaborative layout. Each desk has a light wood tabletop supported by a sleek black metal frame, providing a contemporary aesthetic. Ergonomic chairs with brown upholstery complement the desks, offering comfort for extended use. The workspace is divided by soft fabric partitions that provide privacy while maintaining an open feel. Potted plants and decorative storage boxes add a touch of greenery and organization to the environment, enhancing the overall design.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "height-adjustable, spacious tabletop",
+          "count": 5
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric, metal",
+          "details": "comfortable seating, adjustable height",
+          "count": 5
+        },
+        {
+          "type": "partition",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "soft fabric for privacy",
+          "count": 3
+        },
+        {
+          "type": "storage box",
+          "color": "orange",
+          "style": "modern",
+          "material": "plastic",
+          "details": "decorative storage solution",
+          "count": 1
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "natural",
+          "details": "potted plants for decoration",
+          "count": 3
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk",
+        "collaborative workspace",
+        "height-adjustable desk",
+        "office partition"
+      ]
+    }
+  },
+  {
+    "row_index": 36,
+    "metadata": {
+      "detailed_caption": "This commercial interior design features a modern office layout with multiple workstations. The central area includes a round table with a light-colored top and a few chairs, surrounded by greenery. The workstations are arranged in clusters, each equipped with wooden desks and ergonomic chairs. The desks have integrated planters, adding a touch of nature to the workspace. The overall design promotes collaboration and a comfortable working environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated planters",
+          "count": 6
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "adjustable height",
+          "count": 6
+        },
+        {
+          "type": "table",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round with a light top",
+          "count": 1
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "decorative",
+          "material": "natural",
+          "details": "integrated in workstations",
+          "count": 6
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "wooden desks",
+        "collaborative workspace",
+        "office design"
+      ]
+    }
+  },
+  {
+    "row_index": 37,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office layout featuring various workstations designed for collaborative and individual work. Each workstation consists of wooden desks with integrated greenery, providing a natural touch to the workspace. The desks are paired with ergonomic chairs in earthy tones, enhancing comfort. Notably, some workstations are enclosed with low partitions that incorporate plants, promoting a biophilic design. In the center, a round table is accompanied by wooden stools, creating a casual meeting area. The overall aesthetic is clean and contemporary, with a blend of natural materials and vibrant accents.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated greenery",
+          "count": 6
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "adjustable height",
+          "count": 6
+        },
+        {
+          "type": "partition",
+          "color": "green and red",
+          "style": "modern",
+          "material": "metal and fabric",
+          "details": "with integrated plants",
+          "count": 6
+        },
+        {
+          "type": "table",
+          "color": "light gray",
+          "style": "modern",
+          "material": "wood",
+          "details": "round shape",
+          "count": 1
+        },
+        {
+          "type": "stool",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "simple design",
+          "count": 4
+        },
+        {
+          "type": "sofa",
+          "color": "brown",
+          "style": "modern",
+          "material": "fabric",
+          "details": "comfortable seating",
+          "count": 2
+        },
+        {
+          "type": "side table",
+          "color": "white and gold",
+          "style": "modern",
+          "material": "metal and glass",
+          "details": "small accent table",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk chairs",
+        "biophilic design",
+        "collaborative workstations",
+        "wooden office desks",
+        "contemporary office layout",
+        "greenery in office"
+      ]
+    }
+  },
+  {
+    "row_index": 38,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office workspace featuring multiple workstations. Each workstation is equipped with a light wooden desk that has a smooth finish, complemented by ergonomic chairs in a brown fabric. The desks are arranged in a collaborative layout, with some featuring integrated planters for greenery. Notably, the desks have a sleek design with rounded edges and are supported by sturdy metal frames. The workspace also includes a variety of storage solutions, such as shelving units and a coat rack, enhancing both functionality and aesthetics.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "smooth finish, rounded edges, integrated planters",
+          "count": 5
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric, metal",
+          "details": "comfortable seating, swivel base",
+          "count": 5
+        },
+        {
+          "type": "shelf",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "open shelving for books and decor",
+          "count": 1
+        },
+        {
+          "type": "coat rack",
+          "color": "red",
+          "style": "modern",
+          "material": "metal",
+          "details": "freestanding, multiple hooks",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk",
+        "collaborative workspace",
+        "light wood desk",
+        "brown fabric chair",
+        "office storage solutions",
+        "greenery in office"
+      ]
+    }
+  },
+  {
+    "row_index": 39,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office layout featuring various furniture pieces designed for collaborative workspaces. Central to the design are several wooden desks with a light finish, complemented by ergonomic office chairs in earthy tones. A round meeting table with a soft gray surface is surrounded by green chairs, promoting a casual meeting environment. The office is divided by low partitions that incorporate greenery, enhancing the aesthetic appeal and providing privacy. Storage units with a combination of wood and metal elements are strategically placed, offering both functionality and style. The overall design emphasizes a blend of comfort and productivity, with a focus on natural materials and a cohesive color palette.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "spacious work surface, suitable for collaborative work",
+          "count": 6
+        },
+        {
+          "type": "chair",
+          "color": "earthy tones",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "comfortable seating with adjustable height",
+          "count": 8
+        },
+        {
+          "type": "table",
+          "color": "gray",
+          "style": "modern",
+          "material": "wood",
+          "details": "round meeting table for collaborative discussions",
+          "count": 1
+        },
+        {
+          "type": "partition",
+          "color": "green and gray",
+          "style": "modern",
+          "material": "metal and fabric",
+          "details": "low partitions with integrated greenery for privacy",
+          "count": 5
+        },
+        {
+          "type": "storage unit",
+          "color": "light wood and metal",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "multi-functional storage with open and closed sections",
+          "count": 3
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "collaborative workspace",
+        "wooden desks",
+        "office storage solutions",
+        "greenery in office design",
+        "meeting table"
+      ]
+    }
+  },
+  {
+    "row_index": 40,
+    "metadata": {
+      "detailed_caption": "The workspace features a modern open-plan design with multiple collaborative areas. Central to the layout are several wooden desks, each paired with ergonomic chairs in a muted brown color. The desks are complemented by green planters that add a touch of nature to the environment. Some desks are equipped with dual monitors, while others have a single laptop setup. The partitions are made of glass and fabric, providing privacy while maintaining an open feel. A round table with wooden legs and green chairs is situated in one corner, ideal for informal meetings. Additional storage units with integrated planters enhance the aesthetic and functionality of the space.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated planters",
+          "count": 6
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "adjustable height",
+          "count": 8
+        },
+        {
+          "type": "table",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round, for informal meetings",
+          "count": 1
+        },
+        {
+          "type": "partition",
+          "color": "green and gray",
+          "style": "modern",
+          "material": "glass and fabric",
+          "details": "provides privacy while maintaining openness",
+          "count": 4
+        },
+        {
+          "type": "planter",
+          "color": "green",
+          "style": "modern",
+          "material": "metal",
+          "details": "integrated with desks and storage units",
+          "count": 5
+        },
+        {
+          "type": "storage unit",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated planters",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "wooden desks",
+        "open plan workspace",
+        "collaborative office design",
+        "integrated planters"
+      ]
+    }
+  },
+  {
+    "row_index": 41,
+    "metadata": {
+      "detailed_caption": "This commercial interior design scene features a modern office layout with a variety of furniture pieces. Central to the design is a cozy seating area with a light brown sectional sofa and a round wooden coffee table. Surrounding this area are multiple workstations, each equipped with light wood desks and ergonomic chairs in a dark brown color. The desks are arranged in clusters, promoting collaboration, and are complemented by green plants for a touch of nature. Additionally, there are several storage units with integrated greenery, enhancing the aesthetic appeal of the workspace. The overall design emphasizes functionality and comfort, suitable for a contemporary office environment.",
+      "objects": [
+        {
+          "type": "sofa",
+          "color": "light brown",
+          "style": "modern",
+          "material": "fabric",
+          "details": "sectional design",
+          "count": 1
+        },
+        {
+          "type": "coffee table",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood",
+          "details": "round shape",
+          "count": 1
+        },
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "ergonomic design",
+          "count": 8
+        },
+        {
+          "type": "chair",
+          "color": "dark brown",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic",
+          "count": 8
+        },
+        {
+          "type": "storage unit",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated greenery",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk",
+        "sectional sofa",
+        "workspace design",
+        "office storage solutions"
+      ]
+    }
+  },
+  {
+    "row_index": 42,
+    "metadata": {
+      "detailed_caption": "The workspace features a modern open-plan design with multiple wooden desks arranged in clusters, complemented by ergonomic chairs. Each desk is paired with green acoustic panels for privacy. The space is adorned with planters that incorporate greenery, enhancing the aesthetic and promoting a calming environment. Storage units with a light wood finish are strategically placed, providing both functionality and style. The overall design emphasizes collaboration and comfort, with a blend of natural materials and contemporary elements.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "spacious work surface, paired with acoustic panels",
+          "count": 8
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric and metal",
+          "details": "adjustable height, designed for comfort",
+          "count": 8
+        },
+        {
+          "type": "storage unit",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "includes shelving and integrated planters",
+          "count": 3
+        },
+        {
+          "type": "planter",
+          "color": "black and green",
+          "style": "contemporary",
+          "material": "metal and plastic",
+          "details": "integrated with greenery for aesthetic appeal",
+          "count": 5
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "wooden desks",
+        "open plan workspace",
+        "acoustic panels",
+        "contemporary storage solutions",
+        "office greenery"
+      ]
+    }
+  },
+  {
+    "row_index": 43,
+    "metadata": {
+      "detailed_caption": "The workspace features a modern and collaborative design with multiple workstations. Each workstation includes a wooden desk with a light finish, complemented by ergonomic chairs in a soft brown hue. The desks are separated by low partitions that incorporate greenery, enhancing the workspace's aesthetic and promoting a calming environment. A central area showcases a cozy seating arrangement with a brown lounge chair and a small round table, accompanied by a vibrant yellow side table. The overall layout encourages interaction while providing individual workspaces.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated greenery",
+          "count": 8
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "adjustable height",
+          "count": 8
+        },
+        {
+          "type": "partition",
+          "color": "light gray",
+          "style": "modern",
+          "material": "metal and fabric",
+          "details": "with integrated planters",
+          "count": 6
+        },
+        {
+          "type": "lounge chair",
+          "color": "brown",
+          "style": "modern",
+          "material": "fabric",
+          "details": "comfortable seating",
+          "count": 1
+        },
+        {
+          "type": "table",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood",
+          "details": "small round table",
+          "count": 1
+        },
+        {
+          "type": "side table",
+          "color": "yellow",
+          "style": "modern",
+          "material": "plastic",
+          "details": "small and vibrant",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "wooden desks",
+        "workspace design",
+        "collaborative workstations",
+        "office partitions with plants"
+      ]
+    }
+  },
+  {
+    "row_index": 44,
+    "metadata": {
+      "detailed_caption": "This modern office space features a variety of furniture pieces designed for functionality and collaboration. The main desks are made of light wood with a sleek finish, complemented by ergonomic chairs in muted colors. There are several workstations, each equipped with dividers for privacy, and some include integrated planters for a touch of greenery. A central round table provides a collaborative space, surrounded by stylish chairs. Storage units with open shelving display books and decorative items, while waste bins are discreetly integrated into the cabinetry. Overall, the design emphasizes a clean, organized aesthetic with a focus on comfort and productivity.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "sleek finish, with integrated storage",
+          "count": 6
+        },
+        {
+          "type": "chair",
+          "color": "muted green and brown",
+          "style": "ergonomic",
+          "material": "fabric and metal",
+          "details": "adjustable height",
+          "count": 8
+        },
+        {
+          "type": "table",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round, for collaborative work",
+          "count": 1
+        },
+        {
+          "type": "storage unit",
+          "color": "light wood with green accents",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "open shelving with integrated planters",
+          "count": 4
+        },
+        {
+          "type": "divider",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric and metal",
+          "details": "for privacy between workstations",
+          "count": 5
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "light wood desks",
+        "collaborative workspace",
+        "office storage solutions",
+        "workspace dividers",
+        "integrated planters"
+      ]
+    }
+  },
+  {
+    "row_index": 45,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office space featuring a variety of furniture pieces designed for collaborative work. Central to the layout are several wooden desks with a light finish, complemented by ergonomic chairs in earthy tones. The desks are equipped with integrated storage solutions and are arranged in clusters to promote teamwork. Surrounding the workstations are green planters that add a touch of nature to the environment. A circular table with a light-colored top and wooden legs serves as a casual meeting area, surrounded by stylish chairs. The overall design emphasizes functionality and comfort, with a clean aesthetic.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated storage",
+          "count": 6
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "adjustable height",
+          "count": 10
+        },
+        {
+          "type": "table",
+          "color": "light",
+          "style": "modern",
+          "material": "wood",
+          "details": "circular shape",
+          "count": 1
+        },
+        {
+          "type": "planter",
+          "color": "green",
+          "style": "contemporary",
+          "material": "metal",
+          "details": "with integrated plants",
+          "count": 5
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "wooden desks",
+        "collaborative workspace",
+        "contemporary design"
+      ]
+    }
+  },
+  {
+    "row_index": 46,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office space featuring a variety of workstations and collaborative areas. Central to the design are large wooden desks with a light finish, complemented by ergonomic chairs in earthy tones. Some desks are equipped with integrated planters, adding greenery to the workspace. The layout includes semi-private booths with upholstered backs for added comfort and privacy. A round coffee table with a yellow base and a soft rug create a cozy meeting area. The overall aesthetic is clean and contemporary, promoting a collaborative environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "large desks with integrated planters",
+          "count": 8
+        },
+        {
+          "type": "chair",
+          "color": "brown",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "comfortable chairs with a modern design",
+          "count": 12
+        },
+        {
+          "type": "booth",
+          "color": "green",
+          "style": "modern",
+          "material": "upholstered",
+          "details": "semi-private booths with upholstered backs",
+          "count": 4
+        },
+        {
+          "type": "coffee table",
+          "color": "yellow",
+          "style": "modern",
+          "material": "wood",
+          "details": "round table with a vibrant base",
+          "count": 1
+        },
+        {
+          "type": "rug",
+          "color": "neutral",
+          "style": "modern",
+          "material": "fabric",
+          "details": "soft rug under the coffee table",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "wooden desks",
+        "collaborative workspace",
+        "office design"
+      ]
+    }
+  },
+  {
+    "row_index": 47,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a series of long, rectangular desks made from light-colored wood, supported by sleek black metal legs. Each desk is equipped with a laptop and a few stationery items, creating a clean and organized look. The desks are separated by soft fabric partitions in a muted green tone, providing privacy and a touch of color. Additionally, there are small potted plants on some desks, adding a natural element to the workspace. The overall design emphasizes functionality and a contemporary aesthetic.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "rectangular shape with privacy partitions",
+          "count": 6
+        },
+        {
+          "type": "laptop",
+          "color": "black",
+          "style": "modern",
+          "material": "metal, plastic",
+          "details": "standard laptop design",
+          "count": 6
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "natural",
+          "details": "small potted plants",
+          "count": 3
+        },
+        {
+          "type": "partition",
+          "color": "green",
+          "style": "modern",
+          "material": "fabric",
+          "details": "soft fabric for privacy",
+          "count": 3
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "workspace furniture",
+        "light wood desk",
+        "office partitions",
+        "contemporary office design",
+        "ergonomic workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 48,
+    "metadata": {
+      "detailed_caption": "The image showcases a modern office workspace featuring a series of collaborative desks with ergonomic black office chairs. The desks are made of light wood and are paired with white storage units. Behind the desks, there are purple acoustic panels providing sound absorption. In the foreground, a vibrant yellow sofa adds a pop of color, complemented by a round black coffee table with decorative plants and vases. Two purple lounge chairs with a contemporary design complete the seating area, creating a welcoming and stylish environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "collaborative design with integrated storage",
+          "count": 4
+        },
+        {
+          "type": "chair",
+          "color": "black",
+          "style": "ergonomic",
+          "material": "mesh",
+          "details": "adjustable height with wheels",
+          "count": 4
+        },
+        {
+          "type": "sofa",
+          "color": "yellow",
+          "style": "modern",
+          "material": "fabric",
+          "details": "two-seater with a minimalist design",
+          "count": 1
+        },
+        {
+          "type": "table",
+          "color": "black",
+          "style": "modern",
+          "material": "wood",
+          "details": "round coffee table",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "purple",
+          "style": "modern",
+          "material": "fabric",
+          "details": "lounge chair with a contemporary design",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk chairs",
+        "yellow sofa",
+        "purple lounge chairs",
+        "collaborative workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 49,
+    "metadata": {
+      "detailed_caption": "This commercial workspace features a modern, round wooden table with a light natural finish, complemented by a sleek white base. Surrounding the table are four ergonomic chairs upholstered in a cheerful yellow fabric, each mounted on a white wheeled base for easy mobility. The setup includes two monitors positioned on the table, enhancing the functionality of the space. The overall design promotes collaboration and comfort, making it ideal for team meetings or brainstorming sessions.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round shape with a white base",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "yellow",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic with wheels",
+          "count": 4
+        },
+        {
+          "type": "monitor",
+          "color": "black",
+          "style": "modern",
+          "material": "metal/plastic",
+          "details": "dual monitor setup",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "round wooden table",
+        "yellow ergonomic chairs",
+        "collaborative workspace",
+        "dual monitor setup"
+      ]
+    }
+  },
+  {
+    "row_index": 50,
+    "metadata": {
+      "detailed_caption": "This modern workspace features a rounded wooden table with a light oak finish, providing a warm and inviting surface for collaboration. Surrounding the table are four ergonomic chairs upholstered in a vibrant orange fabric, each mounted on a five-star base with smooth-rolling casters for easy mobility. The chairs have a contemporary design with a low back and a comfortable seat, perfect for extended use. Behind the table, a sleek white partition includes integrated greenery, adding a touch of nature to the workspace and enhancing the overall aesthetic.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "rounded shape, collaborative design",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "orange",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic, on casters",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern workspace",
+        "ergonomic chairs",
+        "wooden table",
+        "orange upholstery",
+        "collaborative furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 51,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a series of collaborative desks arranged in a linear formation. Each desk is equipped with a light wood surface, providing a warm contrast to the sleek, white storage units beneath. The ergonomic office chairs, designed with a mesh back for breathability, are positioned at each desk, enhancing comfort during long working hours. The space is divided by purple acoustic panels that offer privacy while maintaining an open feel. Each workstation is also equipped with a laptop and minimal decorative elements, such as small plants, to create a productive environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "linear arrangement with integrated storage",
+          "count": 5
+        },
+        {
+          "type": "chair",
+          "color": "black",
+          "style": "ergonomic",
+          "material": "mesh and plastic",
+          "details": "adjustable height with wheels",
+          "count": 5
+        },
+        {
+          "type": "storage unit",
+          "color": "white",
+          "style": "modern",
+          "material": "metal",
+          "details": "compact with drawers",
+          "count": 5
+        },
+        {
+          "type": "acoustic panel",
+          "color": "purple",
+          "style": "modern",
+          "material": "fabric",
+          "details": "provides privacy and sound absorption",
+          "count": 5
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk chairs",
+        "collaborative workspace",
+        "acoustic panels",
+        "light wood desks"
+      ]
+    }
+  },
+  {
+    "row_index": 52,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a long, shared wooden desk with a light oak finish, complemented by ergonomic black mesh office chairs. The desk is equipped with multiple laptops and has a sleek design, promoting collaboration. Behind the desk, there are purple fabric partitions providing privacy. Adjacent to the main desk is a smaller round table with a light wood finish and purple legs, surrounded by four light gray upholstered chairs, creating a comfortable meeting area. A glass planter with greenery adds a touch of nature to the workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "long shared desk with multiple workstations",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "black",
+          "style": "ergonomic",
+          "material": "mesh",
+          "details": "adjustable height with wheels",
+          "count": 6
+        },
+        {
+          "type": "partition",
+          "color": "purple",
+          "style": "modern",
+          "material": "fabric",
+          "details": "provides privacy between workstations",
+          "count": 5
+        },
+        {
+          "type": "table",
+          "color": "light oak and purple",
+          "style": "modern",
+          "material": "wood",
+          "details": "round table for meetings",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "light gray",
+          "style": "modern",
+          "material": "upholstered",
+          "details": "comfortable seating for meetings",
+          "count": 4
+        },
+        {
+          "type": "planter",
+          "color": "clear",
+          "style": "modern",
+          "material": "glass",
+          "details": "contains greenery for decoration",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "shared desk",
+        "office partitions",
+        "meeting table",
+        "workspace design",
+        "light oak furniture",
+        "purple accents",
+        "office decor"
+      ]
+    }
+  },
+  {
+    "row_index": 53,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a series of sleek, contemporary desks arranged in a collaborative layout. Each desk has a light wooden top, providing a warm contrast to the metallic silver legs. The desks are equipped with minimalist accessories, including laptops and notepads, enhancing the functional aesthetic. Behind the desks, soft fabric partitions in a muted green tone offer privacy while adding a touch of color. Potted plants are strategically placed on the desks, introducing a refreshing natural element to the workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "collaborative layout with integrated privacy partitions",
+          "count": 5
+        },
+        {
+          "type": "laptop",
+          "color": "black",
+          "style": "modern",
+          "material": "metal and plastic",
+          "details": "sleek design",
+          "count": 5
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "natural",
+          "material": "live plant",
+          "details": "potted for desk decoration",
+          "count": 2
+        },
+        {
+          "type": "notepad",
+          "color": "white",
+          "style": "minimalist",
+          "material": "paper",
+          "details": "blank for notes",
+          "count": 5
+        },
+        {
+          "type": "partition",
+          "color": "green",
+          "style": "modern",
+          "material": "fabric",
+          "details": "soft fabric for privacy",
+          "count": 5
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "collaborative workspace",
+        "wooden desk",
+        "office furniture",
+        "minimalist design",
+        "potted plants"
+      ]
+    }
+  },
+  {
+    "row_index": 54,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a series of collaborative desks arranged in a linear format. Each desk has a light wood surface, complemented by sleek white and purple storage units beneath. The ergonomic office chairs are designed with a mesh back for breathability and comfort, while the vibrant purple acoustic panels provide privacy and reduce noise. Each workstation is equipped with a laptop and minimal decorative elements, creating a clean and functional environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "linear arrangement with integrated storage",
+          "count": 5
+        },
+        {
+          "type": "chair",
+          "color": "black and gray",
+          "style": "modern",
+          "material": "mesh and plastic",
+          "details": "ergonomic with wheels",
+          "count": 5
+        },
+        {
+          "type": "storage unit",
+          "color": "white and purple",
+          "style": "modern",
+          "material": "metal and laminate",
+          "details": "with drawers for organization",
+          "count": 5
+        },
+        {
+          "type": "acoustic panel",
+          "color": "purple",
+          "style": "modern",
+          "material": "fabric",
+          "details": "for noise reduction and privacy",
+          "count": 5
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic chairs",
+        "collaborative desks",
+        "acoustic panels",
+        "workspace design",
+        "office storage solutions"
+      ]
+    }
+  },
+  {
+    "row_index": 55,
+    "metadata": {
+      "detailed_caption": "This commercial workspace features a series of four modern desks arranged in a collaborative layout. Each desk has a sleek white surface, complemented by sturdy black metal legs. The desks are separated by grey acoustic panels that provide privacy and reduce noise. On each desk, there are laptops, a small plant, and various stationery items, creating a functional and aesthetically pleasing work environment. The overall design emphasizes a contemporary and minimalist style, ideal for a professional setting.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "white",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "with black metal legs and acoustic panels",
+          "count": 4
+        },
+        {
+          "type": "laptop",
+          "color": "black",
+          "style": "modern",
+          "material": "metal",
+          "details": "sleek design",
+          "count": 4
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "ceramic pot",
+          "details": "small decorative plant",
+          "count": 1
+        },
+        {
+          "type": "stationery",
+          "color": "various",
+          "style": "modern",
+          "material": "paper and plastic",
+          "details": "various items including notebooks and pens",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "collaborative workspace",
+        "acoustic panels",
+        "minimalist office furniture",
+        "ergonomic design"
+      ]
+    }
+  },
+  {
+    "row_index": 56,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a long, rectangular wooden table with a light oak finish, designed for collaborative work. The table is accompanied by ergonomic black mesh office chairs that provide comfort and support. Behind the chairs, there are purple upholstered privacy panels that enhance focus and reduce noise. At the ends of the table, there are round tables with a similar wooden finish, paired with light gray upholstered chairs on sleek white bases. The workspace is equipped with multiple laptops and small decorative plants, creating a functional and inviting environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "long rectangular shape, designed for collaboration",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "black",
+          "style": "ergonomic",
+          "material": "mesh",
+          "details": "provides comfort and support",
+          "count": 6
+        },
+        {
+          "type": "privacy panel",
+          "color": "purple",
+          "style": "modern",
+          "material": "fabric",
+          "details": "upholstered for noise reduction",
+          "count": 3
+        },
+        {
+          "type": "round table",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "designed for small group discussions",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "light gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "on a sleek white base",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "collaborative workspace",
+        "ergonomic chairs",
+        "wooden desks",
+        "privacy panels"
+      ]
+    }
+  },
+  {
+    "row_index": 57,
+    "metadata": {
+      "detailed_caption": "This modern workspace features a large, oval-shaped table made of light wood, providing a warm and inviting surface for collaboration. The table is supported by sleek white legs, enhancing its contemporary aesthetic. Surrounding the table are four ergonomic chairs, each upholstered in a vibrant orange fabric that adds a pop of color to the space. The chairs are mounted on five-point rolling bases, allowing for easy mobility. A white partition behind the table offers privacy while maintaining an open feel, and a monitor is mounted on the partition for convenience.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "oval-shaped with white legs",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "orange",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic with rolling base",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office table",
+        "oval wooden table",
+        "ergonomic orange chairs",
+        "contemporary workspace",
+        "collaborative furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 58,
+    "metadata": {
+      "detailed_caption": "This modern workspace features a round wooden table with a natural finish, providing a warm and inviting atmosphere. Surrounding the table are four ergonomic chairs upholstered in a soft yellow fabric, each mounted on a white wheeled base for easy mobility. A sleek monitor is positioned on the table, alongside a laptop and some documents, enhancing the functionality of the space. Behind the table, a white planter adds a touch of greenery, contributing to a fresh and vibrant environment.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "natural wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round shape, spacious surface",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "yellow",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic, on wheels",
+          "count": 4
+        },
+        {
+          "type": "monitor",
+          "color": "black",
+          "style": "modern",
+          "material": "metal/plastic",
+          "details": "sleek design, mounted on a stand",
+          "count": 1
+        },
+        {
+          "type": "laptop",
+          "color": "silver",
+          "style": "modern",
+          "material": "metal/plastic",
+          "details": "portable, slim design",
+          "count": 1
+        },
+        {
+          "type": "planter",
+          "color": "white",
+          "style": "modern",
+          "material": "plastic",
+          "details": "contains greenery, adds freshness",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern workspace",
+        "round wooden table",
+        "yellow ergonomic chairs",
+        "office furniture",
+        "contemporary design",
+        "functional workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 59,
+    "metadata": {
+      "detailed_caption": "This modern workspace features a round wooden table with a natural finish, complemented by a sleek white base. Surrounding the table are four ergonomic chairs upholstered in a soft yellow fabric, each mounted on a wheeled base for easy mobility. A large monitor is mounted on the wall behind the table, providing a functional workspace. The backdrop consists of a textured gray acoustic panel, enhancing sound absorption while adding a stylish element to the design.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "natural wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "round shape with a white base",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "yellow",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic with wheels",
+          "count": 4
+        },
+        {
+          "type": "monitor",
+          "color": "black",
+          "style": "modern",
+          "material": "metal/plastic",
+          "details": "mounted on the wall",
+          "count": 1
+        },
+        {
+          "type": "acoustic panel",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "textured for sound absorption",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern workspace",
+        "round wooden table",
+        "yellow ergonomic chairs",
+        "acoustic panel",
+        "office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 60,
+    "metadata": {
+      "detailed_caption": "This modern office setup features a spacious rectangular desk with a light wood finish, complemented by a sleek white metal frame. The desk is equipped with a laptop, a small potted plant, and a notepad, creating a functional workspace. Surrounding the desk are four ergonomic office chairs with mesh backs and padded seats, designed for comfort during long hours of work. The overall aesthetic is clean and contemporary, ideal for a collaborative environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "spacious rectangular shape with integrated cable management",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "black",
+          "style": "ergonomic",
+          "material": "mesh and plastic",
+          "details": "adjustable height with rolling wheels",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic office chair",
+        "light wood desk",
+        "mesh back chair",
+        "contemporary workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 61,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a series of collaborative desks arranged in a linear formation. Each desk has a light wood surface complemented by sleek white storage units beneath. The ergonomic black mesh chairs provide comfort and support, while the purple acoustic panels behind the desks enhance privacy and reduce noise. Each workstation is equipped with a laptop and minimalistic stationery, promoting a clean and organized look.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "linear arrangement with integrated storage",
+          "count": 4
+        },
+        {
+          "type": "chair",
+          "color": "black",
+          "style": "modern",
+          "material": "mesh",
+          "details": "ergonomic design with wheels",
+          "count": 4
+        },
+        {
+          "type": "storage unit",
+          "color": "white",
+          "style": "modern",
+          "material": "metal",
+          "details": "with drawers for organization",
+          "count": 4
+        },
+        {
+          "type": "acoustic panel",
+          "color": "purple",
+          "style": "modern",
+          "material": "fabric",
+          "details": "for sound absorption and privacy",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "collaborative desks",
+        "ergonomic chairs",
+        "acoustic panels",
+        "workspace design"
+      ]
+    }
+  },
+  {
+    "row_index": 62,
+    "metadata": {
+      "detailed_caption": "This workspace features a series of modern desks arranged in a collaborative layout. Each desk has a light wooden top that contrasts beautifully with the sleek black metal legs. The desks are equipped with privacy panels upholstered in a soft, muted fabric, providing a sense of personal space. On each desk, there are laptops, notebooks, and decorative items like small plants and cups, enhancing the functional yet stylish atmosphere of the workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "with privacy panels, collaborative layout",
+          "count": 5
+        },
+        {
+          "type": "laptop",
+          "color": "black",
+          "style": "modern",
+          "material": "metal, plastic",
+          "details": "sleek design",
+          "count": 5
+        },
+        {
+          "type": "notebook",
+          "color": "white",
+          "style": "modern",
+          "material": "paper",
+          "details": "standard size",
+          "count": 5
+        },
+        {
+          "type": "plant",
+          "color": "green, white",
+          "style": "modern",
+          "material": "ceramic, foliage",
+          "details": "small decorative plant",
+          "count": 2
+        },
+        {
+          "type": "cup",
+          "color": "white",
+          "style": "modern",
+          "material": "ceramic",
+          "details": "simple design",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "collaborative workspace",
+        "privacy panels",
+        "light wood furniture",
+        "office design"
+      ]
+    }
+  },
+  {
+    "row_index": 63,
+    "metadata": {
+      "detailed_caption": "This modern workspace features a rounded wooden table with a natural finish, supported by sleek white legs. Surrounding the table are four ergonomic chairs, each upholstered in a vibrant orange fabric, providing a pop of color against the neutral tones. The chairs are mounted on wheeled bases for easy mobility. Behind the table, a sound-absorbing panel with vertical gray stripes adds a contemporary touch while enhancing privacy. A monitor is mounted on a stand, completing the functional design of this collaborative space.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "natural wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "rounded shape, sleek white legs",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "orange",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic, wheeled base",
+          "count": 4
+        },
+        {
+          "type": "panel",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "sound-absorbing, vertical stripes",
+          "count": 1
+        },
+        {
+          "type": "monitor",
+          "color": "black",
+          "style": "modern",
+          "material": "metal/plastic",
+          "details": "mounted on stand",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern workspace",
+        "ergonomic chairs",
+        "wooden table",
+        "collaborative design",
+        "office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 64,
+    "metadata": {
+      "detailed_caption": "The workspace features a modern office layout with multiple workstations. Each workstation consists of a light wooden desk paired with ergonomic black office chairs. The desks are separated by purple fabric partitions that provide privacy while maintaining an open feel. The overall design emphasizes functionality and comfort, with ample space for personal items and technology. The area is well-lit, enhancing productivity.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "spacious with integrated cable management",
+          "count": 8
+        },
+        {
+          "type": "chair",
+          "color": "black",
+          "style": "ergonomic",
+          "material": "mesh",
+          "details": "adjustable height and lumbar support",
+          "count": 8
+        },
+        {
+          "type": "partition",
+          "color": "purple",
+          "style": "modern",
+          "material": "fabric",
+          "details": "provides privacy between workstations",
+          "count": 8
+        }
+      ],
+      "keywords": [
+        "modern office",
+        "ergonomic chairs",
+        "wooden desks",
+        "purple partitions",
+        "workspace design"
+      ]
+    }
+  },
+  {
+    "row_index": 65,
+    "metadata": {
+      "detailed_caption": "This modern meeting table features a sleek design with a light oak top and a contrasting matte black base. The table is equipped with integrated storage, providing a functional solution for organizing office supplies. The minimalist aesthetic is enhanced by the clean lines and sturdy black legs, making it suitable for contemporary office environments.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light oak, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "with integrated storage",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern meeting table",
+        "integrated storage",
+        "oak top table",
+        "black base table",
+        "contemporary office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 66,
+    "metadata": {
+      "detailed_caption": "This modern desk features a sleek, rounded tabletop made of light oak wood, providing a warm and inviting aesthetic. The desk is supported by sturdy black metal legs that offer a contemporary contrast to the wooden surface. A cable management hole is integrated into the design, ensuring a tidy workspace. Additionally, a monitor mount is attached to the back of the desk, allowing for ergonomic screen placement.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "rounded tabletop, cable management hole, monitor mount",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "oak wood furniture",
+        "black metal legs",
+        "ergonomic workspace",
+        "contemporary design"
+      ]
+    }
+  },
+  {
+    "row_index": 67,
+    "metadata": {
+      "detailed_caption": "This modern conference table features a sleek, elongated design with a light oak wood top and sturdy black metal legs. The tabletop is equipped with integrated power outlets, providing functionality for meetings and collaborative work. The rounded edges of the table add a contemporary touch, while the minimalist style ensures it fits seamlessly into various office environments.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light oak, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "elongated design with integrated power outlets and rounded edges",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "conference table",
+        "modern office furniture",
+        "wooden table",
+        "integrated power outlets",
+        "minimalist design"
+      ]
+    }
+  },
+  {
+    "row_index": 68,
+    "metadata": {
+      "detailed_caption": "This image features a modern desk designed for contemporary workspaces. The desk has a rounded rectangular top made of light oak wood, providing a warm and inviting aesthetic. It is supported by sleek black legs that offer a striking contrast to the wooden surface. The desk includes a built-in cable management hole at the center, ensuring a tidy workspace. A monitor arm is attached to the back of the desk, allowing for adjustable screen positioning, enhancing ergonomics and functionality.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light oak, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "rounded rectangular top, cable management hole, adjustable monitor arm",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "ergonomic workspace",
+        "light oak furniture",
+        "black metal legs",
+        "adjustable monitor arm"
+      ]
+    }
+  },
+  {
+    "row_index": 69,
+    "metadata": {
+      "detailed_caption": "This modern desk features a sleek, rounded tabletop made of light wood, complemented by a sturdy black base. The desk is designed with a built-in planter at the back, showcasing lush greenery that adds a touch of nature to the workspace. A monitor is mounted on the back panel, providing an ergonomic setup for productivity. The legs are elegantly tapered, enhancing the contemporary aesthetic of the piece.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood and black",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "rounded tabletop with integrated planter and monitor mount",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "wooden tabletop",
+        "black base",
+        "integrated planter",
+        "ergonomic workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 70,
+    "metadata": {
+      "detailed_caption": "This image features a modern round side table characterized by its minimalist design. The tabletop is made of light-colored wood, showcasing a natural grain pattern that adds warmth to the piece. The table is supported by a sleek black metal frame, which consists of four slender legs that provide stability while maintaining an airy feel. The combination of wood and metal creates a stylish contrast, making it suitable for various interior styles.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light wood, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "round tabletop, minimalist design",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "round table",
+        "modern furniture",
+        "wooden tabletop",
+        "metal frame",
+        "minimalist design"
+      ]
+    }
+  },
+  {
+    "row_index": 71,
+    "metadata": {
+      "detailed_caption": "This image features a modern rectangular table with a sleek design. The tabletop is made of light-colored wood, showcasing a natural grain pattern that adds warmth to the space. The edges of the table are softly rounded, enhancing its contemporary aesthetic. The base consists of sturdy black metal legs, which provide a striking contrast to the wooden top. The legs are designed with a minimalist approach, featuring cross supports that add stability while maintaining an open feel.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light wood, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "rectangular, with rounded edges and cross supports",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern table",
+        "wooden tabletop",
+        "black metal legs",
+        "rectangular table",
+        "contemporary furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 72,
+    "metadata": {
+      "detailed_caption": "This image features a modern round side table characterized by its minimalist design. The tabletop is crafted from light-colored wood, showcasing a natural grain pattern, while the legs are made from sleek black metal, providing a striking contrast. The legs are elegantly curved, adding a touch of sophistication, and are connected to the tabletop with subtle wooden accents that enhance the overall aesthetic.",
+      "objects": [
+        {
+          "type": "table",
+          "color": [
+            "light wood",
+            "black"
+          ],
+          "style": "modern",
+          "material": [
+            "wood",
+            "metal"
+          ],
+          "details": "round tabletop with curved legs, minimalist design",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern side table",
+        "round wooden table",
+        "black metal legs",
+        "minimalist furniture",
+        "contemporary design"
+      ]
+    }
+  },
+  {
+    "row_index": 73,
+    "metadata": {
+      "detailed_caption": "This image features a modern conference table designed for collaborative workspaces. The table has a sleek, rectangular shape with rounded edges, crafted from light wood that showcases a natural grain pattern. It is supported by sturdy black metal legs that provide a contemporary contrast. The tabletop includes integrated cable management ports, enhancing functionality for meetings and presentations.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light wood, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "rectangular shape with rounded edges, integrated cable management ports",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "conference table",
+        "modern furniture",
+        "wooden table",
+        "office design",
+        "collaborative workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 74,
+    "metadata": {
+      "detailed_caption": "This modern desk features a sleek, rounded tabletop made of light wood, complemented by a stylish black metal frame. The desk includes a built-in planter at the back, adorned with lush greenery, which adds a touch of nature to the workspace. The design incorporates a cable management hole for a clean look, and the legs are elegantly tapered, providing stability while enhancing the overall aesthetic.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "rounded tabletop, built-in planter, cable management hole",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern desk",
+        "wooden desk",
+        "office furniture",
+        "planter desk",
+        "contemporary design"
+      ]
+    }
+  },
+  {
+    "row_index": 75,
+    "metadata": {
+      "detailed_caption": "This image features a tall, slender wardrobe designed with a minimalist aesthetic. The wardrobe is constructed from light-colored wood, showcasing a natural grain pattern that adds warmth to the space. It has a single door with a sleek, integrated handle, providing a seamless look. The base of the wardrobe is slightly elevated, enhancing its modern appeal. The overall design emphasizes functionality while maintaining a contemporary style.",
+      "objects": [
+        {
+          "type": "wardrobe",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "slender design with integrated handle, elevated base",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern wardrobe",
+        "light wood furniture",
+        "minimalist design",
+        "tall storage cabinet",
+        "contemporary furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 76,
+    "metadata": {
+      "detailed_caption": "This image features a modern rectangular planter with a sleek black finish, housing lush green foliage. The planter's minimalist design emphasizes clean lines and a contemporary aesthetic, making it a perfect addition to both indoor and outdoor spaces. The vibrant greenery contrasts beautifully with the dark exterior, adding a touch of nature to the environment.",
+      "objects": [
+        {
+          "type": "planter",
+          "color": "black",
+          "style": "modern",
+          "material": "plastic",
+          "details": "rectangular shape, holds green foliage",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern planter",
+        "black planter",
+        "rectangular planter",
+        "indoor plants",
+        "contemporary design",
+        "minimalist decor",
+        "green foliage"
+      ]
+    }
+  },
+  {
+    "row_index": 77,
+    "metadata": {
+      "detailed_caption": "This image features a modern wooden planter box filled with lush green foliage. The planter is rectangular with clean lines, showcasing a natural wood finish that highlights the grain. The vibrant greenery contrasts beautifully with the warm tones of the wood, creating a fresh and inviting aesthetic suitable for various interior or exterior settings.",
+      "objects": [
+        {
+          "type": "planter",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood",
+          "details": "rectangular shape, filled with greenery",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "wooden planter",
+        "modern planter",
+        "indoor plants",
+        "decorative planter",
+        "greenery decor"
+      ]
+    }
+  },
+  {
+    "row_index": 78,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a long, shared desk setup with a natural wood finish and black metal legs. The desk is complemented by three ergonomic chairs upholstered in a light, soft fabric. Each workstation is separated by tall, grey acoustic panels that provide privacy and reduce noise. The desk is equipped with a laptop, stationery holder, and decorative items, creating a functional yet stylish environment for productivity.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "natural wood, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "long shared desk with black metal legs",
+          "count": 3
+        },
+        {
+          "type": "chair",
+          "color": "light grey",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "ergonomic chair with wheels",
+          "count": 3
+        },
+        {
+          "type": "acoustic panel",
+          "color": "grey",
+          "style": "modern",
+          "material": "fabric",
+          "details": "tall panel for privacy",
+          "count": 3
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "shared workspace",
+        "acoustic panels",
+        "office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 79,
+    "metadata": {
+      "detailed_caption": "This image features a sleek, modern wall-mounted table with an oval-shaped wooden top in a light oak finish. The table is supported by a single black metal leg, providing a minimalist aesthetic. On the table, there are two decorative candles in soft pastel colors, a stack of books, and a tablet, showcasing a functional yet stylish workspace.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "light oak, black",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "oval-shaped, wall-mounted, minimalist design",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "wall-mounted table",
+        "modern furniture",
+        "light oak table",
+        "minimalist design",
+        "home office decor"
+      ]
+    }
+  },
+  {
+    "row_index": 80,
+    "metadata": {
+      "detailed_caption": "This modern wooden storage unit features a sleek design with six open compartments, perfect for organizing books and decorative items. The unit is crafted from light oak wood, showcasing a natural finish that enhances its contemporary appeal. It is equipped with wheels for easy mobility, making it a versatile addition to any space. The top surface is adorned with stylish storage jars in pastel colors, adding a touch of elegance and functionality.",
+      "objects": [
+        {
+          "type": "storage unit",
+          "color": "light oak",
+          "style": "modern",
+          "material": "wood",
+          "details": "six open compartments, mobile on wheels",
+          "count": 1
+        },
+        {
+          "type": "decorative jar",
+          "color": "pastel green, pastel pink, pastel blue",
+          "style": "contemporary",
+          "material": "ceramic",
+          "details": "with wooden lids",
+          "count": 3
+        },
+        {
+          "type": "book",
+          "color": "various",
+          "style": "modern",
+          "material": "paper",
+          "details": "stacked on the storage unit",
+          "count": 5
+        }
+      ],
+      "keywords": [
+        "modern storage unit",
+        "light oak furniture",
+        "mobile shelving",
+        "decorative jars",
+        "contemporary design"
+      ]
+    }
+  },
+  {
+    "row_index": 81,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a series of sleek, contemporary desks arranged in a collaborative layout. Each desk is crafted from light wood with a smooth finish, supported by sturdy black metal legs that provide a striking contrast. The desks are separated by stylish wooden dividers, adding a touch of warmth and privacy to the space. Accompanying each desk are ergonomic chairs upholstered in a soft, light fabric, designed for comfort during long working hours. The overall aesthetic is clean and functional, perfect for a modern office environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "features sturdy black metal legs, collaborative layout",
+          "count": 4
+        },
+        {
+          "type": "chair",
+          "color": "light fabric",
+          "style": "modern",
+          "material": "fabric and metal",
+          "details": "ergonomic design, on wheels",
+          "count": 4
+        },
+        {
+          "type": "divider",
+          "color": "wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "provides privacy, slatted design",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "wooden divider",
+        "collaborative workspace",
+        "contemporary office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 82,
+    "metadata": {
+      "detailed_caption": "The workspace features a modern office setup with a large, rectangular desk made of light wood, supported by green metal legs. Surrounding the desk are several ergonomic office chairs with black fabric upholstery and five-star bases for mobility. The workspace is divided by soft, gray acoustic panels that provide privacy while maintaining an open feel. These panels are mounted on copper-colored frames, adding a touch of elegance. A small potted plant is visible on the desk, enhancing the aesthetic with a natural element.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, green",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "large rectangular desk with green metal legs",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "black",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "ergonomic office chair with five-star base",
+          "count": 4
+        },
+        {
+          "type": "acoustic panel",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "soft acoustic panels mounted on copper frames",
+          "count": 3
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "natural",
+          "material": "plant",
+          "details": "small potted plant",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic office chair",
+        "acoustic panels",
+        "workspace solutions",
+        "office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 83,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a series of collaborative desks designed for efficiency and comfort. Each desk is constructed with a light wood surface, complemented by a sturdy green metal frame. The desks are separated by soft gray acoustic panels that provide privacy while enhancing the aesthetic appeal. Each workstation is equipped with ergonomic chairs upholstered in dark gray fabric, featuring a five-point base for stability and mobility. The desks are accessorized with small potted plants, adding a touch of greenery to the workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "light wood, green",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "collaborative design with acoustic panels",
+          "count": 4
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "ergonomic with a five-point base",
+          "count": 4
+        },
+        {
+          "type": "acoustic panel",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "provides privacy and sound absorption",
+          "count": 4
+        },
+        {
+          "type": "plant pot",
+          "color": "white",
+          "style": "modern",
+          "material": "ceramic",
+          "details": "small potted plants for decoration",
+          "count": 4
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "acoustic panel workstation",
+        "collaborative workspace",
+        "office furniture solutions"
+      ]
+    }
+  },
+  {
+    "row_index": 84,
+    "metadata": {
+      "detailed_caption": "This modern workspace features two sleek desks made of warm wood with a rich walnut finish, complemented by ergonomic chairs upholstered in dark gray fabric. Each desk is equipped with a laptop and a small potted plant, enhancing the workspace's aesthetic. The desks are separated by stylish black perforated dividers, providing privacy while maintaining an open feel. The overall design emphasizes functionality and contemporary style.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "walnut",
+          "style": "modern",
+          "material": "wood",
+          "details": "spacious surface with a sleek design",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "rolling base for mobility",
+          "count": 2
+        },
+        {
+          "type": "divider",
+          "color": "black",
+          "style": "modern",
+          "material": "metal",
+          "details": "perforated design for privacy",
+          "count": 2
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "ceramic pot",
+          "details": "small potted plant for decoration",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern workspace",
+        "ergonomic office furniture",
+        "walnut desk",
+        "black office divider",
+        "dark gray chair",
+        "contemporary design",
+        "office decor"
+      ]
+    }
+  },
+  {
+    "row_index": 85,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features two sleek desks made of rich, dark wood with a smooth finish. Each desk is paired with a comfortable, ergonomic chair upholstered in a textured gray fabric. The workspace is divided by a stylish black acoustic panel that provides privacy while maintaining an open feel. A laptop is placed on one of the desks, showcasing a contemporary tech-friendly environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "dark wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "smooth finish, spacious surface",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic, comfortable",
+          "count": 2
+        },
+        {
+          "type": "acoustic panel",
+          "color": "black",
+          "style": "modern",
+          "material": "fabric",
+          "details": "provides privacy, sound absorption",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "acoustic panel",
+        "workspace design",
+        "contemporary office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 86,
+    "metadata": {
+      "detailed_caption": "This modern private office features a sleek wooden desk with a rich walnut finish, complemented by a black base. The desk is equipped with a laptop and a small potted plant, adding a touch of greenery. Behind the desk, a stylish ergonomic chair in dark fabric provides comfort. Adjacent to the desk is a matching storage unit with two drawers, maintaining a cohesive look. The overall design emphasizes functionality and minimalism, ideal for a contemporary workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "walnut and black",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "features a spacious surface with integrated cable management",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "dark fabric",
+          "style": "ergonomic",
+          "material": "fabric and metal",
+          "details": "provides comfort for long hours of work",
+          "count": 1
+        },
+        {
+          "type": "storage unit",
+          "color": "black",
+          "style": "modern",
+          "material": "wood",
+          "details": "includes two drawers for organization",
+          "count": 1
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "decorative",
+          "material": "plastic or real",
+          "details": "small potted plant for aesthetic appeal",
+          "count": 1
+        },
+        {
+          "type": "laptop",
+          "color": "silver",
+          "style": "modern",
+          "material": "metal and plastic",
+          "details": "sleek design for professional use",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "black storage unit",
+        "walnut finish furniture",
+        "contemporary workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 87,
+    "metadata": {
+      "detailed_caption": "This modern private office features a sleek wooden desk with a rich walnut finish, complemented by a black metal base. The desk is equipped with a laptop and a small potted plant, adding a touch of greenery. Adjacent to the desk is a matching wooden storage unit with two drawers, providing functional storage. A comfortable ergonomic chair in a dark fabric is positioned at the desk, ensuring a stylish yet practical workspace.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "walnut",
+          "style": "modern",
+          "material": "wood",
+          "details": "features a black metal base, spacious surface for laptop",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic design for comfort",
+          "count": 1
+        },
+        {
+          "type": "storage unit",
+          "color": "walnut",
+          "style": "modern",
+          "material": "wood",
+          "details": "includes two drawers for storage",
+          "count": 1
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "ceramic pot",
+          "details": "small potted plant for decoration",
+          "count": 1
+        },
+        {
+          "type": "laptop",
+          "color": "silver",
+          "style": "modern",
+          "material": "metal",
+          "details": "sleek design on desk surface",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "walnut storage unit",
+        "ergonomic chair",
+        "private office furniture",
+        "contemporary workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 88,
+    "metadata": {
+      "detailed_caption": "This workspace features a pair of modern desks with a rich wooden surface, complemented by sleek black metal legs. Each desk is equipped with a laptop and has a small potted plant for a touch of greenery. The ergonomic chairs are upholstered in a textured gray fabric, providing comfort and style. The workstations are separated by sound-absorbing panels that enhance privacy and reduce noise, creating a focused environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "with sound-absorbing panels",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic design",
+          "count": 2
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "decorative",
+          "material": "natural",
+          "details": "small potted plant",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "workspace design",
+        "wooden desk",
+        "office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 89,
+    "metadata": {
+      "detailed_caption": "This modern workspace features two sleek desks made of rich wood with a warm finish, complemented by minimalist black metal frames. Each desk is equipped with a laptop and a simple silver mouse pad, enhancing the contemporary aesthetic. The ergonomic chairs are upholstered in a dark gray fabric, providing comfort and style. A perforated black partition separates the workspaces, adding a touch of privacy while maintaining an open feel. A small potted plant adds a hint of greenery to the setup.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood, metal",
+          "details": "with a warm finish and minimalist design",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "modern",
+          "material": "fabric, metal",
+          "details": "ergonomic design",
+          "count": 2
+        },
+        {
+          "type": "partition",
+          "color": "black",
+          "style": "modern",
+          "material": "metal",
+          "details": "perforated for privacy",
+          "count": 1
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "natural",
+          "details": "small potted plant",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern workspace",
+        "wood desk",
+        "ergonomic chair",
+        "black partition",
+        "contemporary office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 90,
+    "metadata": {
+      "detailed_caption": "This modern private office features a sleek L-shaped desk made of rich wood with a smooth surface, complemented by a black panel that adds a contemporary touch. The desk is accompanied by a comfortable ergonomic chair with a mesh back for breathability. Above the desk, a dark green felt wall provides a stylish backdrop, while a shelf above holds decorative plants and books, enhancing the workspace's aesthetic. To the side, a tall storage cabinet in black with wooden accents offers ample storage space, maintaining a clean and organized look.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "brown and black",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "L-shaped with a smooth surface and integrated storage",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "black",
+          "style": "ergonomic",
+          "material": "mesh and fabric",
+          "details": "breathable mesh back",
+          "count": 1
+        },
+        {
+          "type": "shelf",
+          "color": "black",
+          "style": "modern",
+          "material": "wood",
+          "details": "holds decorative items and books",
+          "count": 1
+        },
+        {
+          "type": "storage cabinet",
+          "color": "black",
+          "style": "modern",
+          "material": "wood",
+          "details": "tall with ample storage space",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "L-shaped desk",
+        "ergonomic chair",
+        "storage cabinet",
+        "contemporary workspace"
+      ]
+    }
+  },
+  {
+    "row_index": 91,
+    "metadata": {
+      "detailed_caption": "This workspace features two modern desks with a rich wooden surface, complemented by sleek black metal legs. Each desk is paired with a stylish ergonomic chair upholstered in dark gray fabric, providing comfort and support. The desks are separated by sound-absorbing partitions, enhancing privacy and focus. A laptop and a small potted plant add a touch of functionality and greenery to the setup.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "with sound-absorbing partitions",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "with a five-star base and wheels",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "wooden desk",
+        "workspace design",
+        "office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 92,
+    "metadata": {
+      "detailed_caption": "This workspace features two modern desks made of rich wood with a dark finish, separated by sleek black acoustic panels for privacy. Each desk is equipped with a laptop and has a minimalist design, emphasizing functionality. The ergonomic chairs, upholstered in a textured gray fabric, provide comfort and support, while the black metal bases add a contemporary touch. The overall setup promotes a collaborative yet focused working environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "dark wood",
+          "style": "modern",
+          "material": "wood",
+          "details": "with acoustic panels for privacy",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic with a black metal base",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "workspace design",
+        "acoustic panels",
+        "contemporary furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 93,
+    "metadata": {
+      "detailed_caption": "This workspace features a modern double desk setup designed for collaboration. Each desk has a rich wooden surface with a warm brown finish, complemented by sleek black metal legs. The desks are separated by a sound-absorbing partition in a dark green fabric, enhancing privacy and reducing noise. Each workstation is equipped with a minimalist laptop and a small potted plant for a touch of greenery. The ergonomic chairs are upholstered in a dark fabric, providing comfort and support, and feature a five-point base with wheels for easy mobility.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood and metal",
+          "details": "double workstation with sound-absorbing partition",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "modern",
+          "material": "fabric and metal",
+          "details": "ergonomic with wheels",
+          "count": 2
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "minimalist",
+          "material": "natural",
+          "details": "small potted plant",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "double workstation",
+        "ergonomic chair",
+        "sound-absorbing partition",
+        "workspace design"
+      ]
+    }
+  },
+  {
+    "row_index": 94,
+    "metadata": {
+      "detailed_caption": "This modern office workspace features a pair of sleek desks made from rich wood with a warm finish, complemented by ergonomic chairs upholstered in dark gray fabric. The desks are separated by stylish black perforated partitions that provide privacy while maintaining an open feel. Each desk is equipped with a laptop and a minimalist desk pad, enhancing the contemporary aesthetic. A small potted plant adds a touch of greenery to the setup.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood",
+          "details": "with integrated privacy partitions",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic with rolling wheels",
+          "count": 2
+        },
+        {
+          "type": "partition",
+          "color": "black",
+          "style": "modern",
+          "material": "metal",
+          "details": "perforated design for privacy",
+          "count": 2
+        },
+        {
+          "type": "laptop",
+          "color": "silver",
+          "style": "modern",
+          "material": "metal",
+          "details": "minimalist design",
+          "count": 2
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "ceramic pot",
+          "details": "small potted plant",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office desk",
+        "ergonomic chair",
+        "workspace design",
+        "wooden desk",
+        "office partition"
+      ]
+    }
+  },
+  {
+    "row_index": 95,
+    "metadata": {
+      "detailed_caption": "This private office features a modern wooden desk with a rich walnut finish, complemented by a sleek black panel that adds a contemporary touch. The desk is equipped with a cable management system, ensuring a tidy workspace. A comfortable ergonomic chair with a dark fabric upholstery is positioned at the desk. Behind the desk, a stylish storage cabinet in a matching walnut finish provides ample space for office supplies. Above the desk, a minimalist shelf holds decorative plants and books, enhancing the office's aesthetic appeal.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "walnut",
+          "style": "modern",
+          "material": "wood",
+          "details": "features cable management system",
+          "count": 1
+        },
+        {
+          "type": "chair",
+          "color": "dark fabric",
+          "style": "ergonomic",
+          "material": "fabric",
+          "details": "comfortable and adjustable",
+          "count": 1
+        },
+        {
+          "type": "storage cabinet",
+          "color": "walnut",
+          "style": "modern",
+          "material": "wood",
+          "details": "provides ample storage space",
+          "count": 1
+        },
+        {
+          "type": "shelf",
+          "color": "black",
+          "style": "minimalist",
+          "material": "wood",
+          "details": "holds decorative items",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "walnut desk",
+        "ergonomic chair",
+        "storage cabinet",
+        "minimalist shelf"
+      ]
+    }
+  },
+  {
+    "row_index": 96,
+    "metadata": {
+      "detailed_caption": "This modern workspace features two sleek desks made of rich wood with a warm finish, complemented by ergonomic chairs upholstered in dark fabric. Each desk is equipped with a laptop and a minimalist plant, enhancing the workspace's functionality and aesthetic appeal. The desks are separated by stylish acoustic panels that provide privacy while maintaining an open feel.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood",
+          "details": "spacious surface with a warm finish",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic design with rolling wheels",
+          "count": 2
+        },
+        {
+          "type": "acoustic panel",
+          "color": "black",
+          "style": "modern",
+          "material": "fabric and metal",
+          "details": "provides privacy and sound absorption",
+          "count": 2
+        },
+        {
+          "type": "laptop",
+          "color": "silver",
+          "style": "modern",
+          "material": "metal",
+          "details": "sleek design, placed on each desk",
+          "count": 2
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "natural",
+          "details": "small decorative plant on each desk",
+          "count": 2
+        }
+      ],
+      "keywords": [
+        "modern workspace",
+        "wood desk",
+        "ergonomic chair",
+        "acoustic panel",
+        "office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 97,
+    "metadata": {
+      "detailed_caption": "This modern workspace features a pair of sleek desks with a warm wooden finish, complemented by ergonomic chairs upholstered in dark fabric. The desks are separated by sound-absorbing partitions, enhancing privacy and focus. Each desk is equipped with a laptop and has a small potted plant for a touch of greenery, creating a balanced and inviting work environment.",
+      "objects": [
+        {
+          "type": "desk",
+          "color": "brown",
+          "style": "modern",
+          "material": "wood",
+          "details": "with sound-absorbing partitions",
+          "count": 2
+        },
+        {
+          "type": "chair",
+          "color": "dark gray",
+          "style": "modern",
+          "material": "fabric",
+          "details": "ergonomic with rolling wheels",
+          "count": 2
+        },
+        {
+          "type": "partition",
+          "color": "black",
+          "style": "modern",
+          "material": "fabric and metal",
+          "details": "sound-absorbing with perforated design",
+          "count": 2
+        },
+        {
+          "type": "plant",
+          "color": "green",
+          "style": "modern",
+          "material": "natural",
+          "details": "small potted plant",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern office furniture",
+        "ergonomic desk",
+        "fabric chair",
+        "workspace design",
+        "sound-absorbing partition"
+      ]
+    }
+  },
+  {
+    "row_index": 98,
+    "metadata": {
+      "detailed_caption": "This modern conference table features a sleek, rectangular design with a smooth white surface that enhances its contemporary aesthetic. The table is supported by sturdy, dark green legs that provide a striking contrast to the top. Integrated cable management solutions are visible on the surface, with two rectangular cutouts designed for easy access to power and data connections, making it ideal for collaborative workspaces.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "white",
+          "style": "modern",
+          "material": "laminate",
+          "details": "features integrated cable management cutouts",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "conference table",
+        "modern design",
+        "white laminate",
+        "cable management",
+        "office furniture"
+      ]
+    }
+  },
+  {
+    "row_index": 99,
+    "metadata": {
+      "detailed_caption": "This modern conference table features a sleek, rectangular design with a glossy white surface that enhances its contemporary appeal. The table is supported by a sturdy, dark metal frame, providing a striking contrast to the light tabletop. Integrated cable management solutions are visible on the surface, with two rectangular cutouts that allow for easy access to power and data connections, making it ideal for collaborative workspaces.",
+      "objects": [
+        {
+          "type": "table",
+          "color": "white",
+          "style": "modern",
+          "material": "glass, metal",
+          "details": "rectangular shape with integrated cable management",
+          "count": 1
+        }
+      ],
+      "keywords": [
+        "modern conference table",
+        "white tabletop",
+        "metal frame",
+        "cable management",
+        "contemporary office furniture"
+      ]
+    }
+  }
+]
